@@ -1,0 +1,78 @@
+.app{
+  text-align: center;
+}
+.heading {
+  color: dodgerblue;
+  font-size: 100px;
+}
+
+h2 {
+  color: orange;
+  font-size: 70px;
+  font-weight: 900;
+}
+
+button.brown-pill{
+  background-color: brown;
+  border: 2px solid rgb(73, 73, 73);
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  margin: 5px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  transition-duration: 0.4s;
+}
+button.brown-pill:hover{
+  background-color: #ffffff;
+  color: brown;
+}
+button.green-pill{
+  background-color: green;
+  border: 2px solid rgb(73, 73, 73);
+  color: white;
+  padding: 15px 32px;
+  margin: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  transition-duration: 0.4s;
+}
+button.green-pill:hover{
+  background-color: #ffffff;
+  color: green;
+}
+button.blue-pill{
+  background-color: blue;
+  border: 2px solid rgb(73, 73, 73);
+  color: white;
+  margin: 5px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  transition-duration: 0.4s;
+}
+button.blue-pill:hover{
+  background-color: #ffffff;
+  color: blue;
+}
+button.purple-pill{
+  background-color: purple;
+  border: 2px solid rgb(73, 73, 73);
+  color: white;
+  margin: 5px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  transition-duration: 0.4s;
+}
+button.purple-pill:hover{
+  background-color: #ffffff;
+  color: purple;
+}
